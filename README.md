@@ -1,7 +1,9 @@
 # CrazyProject
-Execution of a monocular depth estimation model on an embedded system (Raspberry Pi Zero)
+### Execution of a monocular depth estimation model on an embedded system (Raspberry Pi Zero)
 
 Model taked from: https://github.com/nianticlabs/monodepth2
+
+Colab testing environment: https://colab.research.google.com/drive/1TXeI7PwdrbFNWTkw7RTdptvMD4-pAV2V?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/30986170/203466630-5878aa59-62fa-4748-bda2-5b5f39ad86d3.png)
 
