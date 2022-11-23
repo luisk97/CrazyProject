@@ -1,6 +1,8 @@
 # CrazyProject
 Execution of a monocular depth estimation model on an embedded system (Raspberry Pi Zero)
 
+Model taked from: https://github.com/nianticlabs/monodepth2
+
 ![image](https://user-images.githubusercontent.com/30986170/203466630-5878aa59-62fa-4748-bda2-5b5f39ad86d3.png)
 
 ***
